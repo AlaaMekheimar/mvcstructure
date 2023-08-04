@@ -1,0 +1,19 @@
+{
+    
+        "name": "alaamekhiemar/mvcstructure",
+        "description": "A short description of what your package does",
+        "require": {
+            "php": ">=8.2",
+            "another-vendor/package": "1.*"
+        },
+
+    "autoload":{
+        "psr-4":{
+            "MVC\\":"app"
+        }
+    },
+    "require": {
+        "rakit/validation": "^1.4",
+        "dcblogdev/pdo-wrapper": "^2.0"
+    }
+}
