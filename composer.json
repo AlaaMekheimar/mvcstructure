@@ -15,5 +15,9 @@
     "require": {
         "rakit/validation": "^1.4",
         "dcblogdev/pdo-wrapper": "^2.0"
+        
+    },
+    "require":{
+        "alaamekhiemar/mvcstructure":"dev-master"
     }
 }
